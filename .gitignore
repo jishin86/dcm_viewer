@@ -1,0 +1,6 @@
+.*~
+*.*~
+*.swap
+build*
+cmake-*
+*.dcm
